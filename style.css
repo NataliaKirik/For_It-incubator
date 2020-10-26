@@ -1,0 +1,25 @@
+.input{
+    background-color: white;
+    border: 3px red solid;
+    border-radius: 20px;
+    font-size: 30px;
+    height: 50%;
+    padding-inline-end: 40px;
+    padding-inline-start: 52px;
+    width: 50%;
+    outline: none;
+    margin: 30px 0;
+}
+.button{
+    background-color: green;
+    border: 1px solid #f2f2f2;
+    color: #f1ecca;
+    font-family: arial,sans-serif;
+    font-size: 25px;
+    padding: 0 16px;
+    height: 43px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 20px;
+    outline: none;
+}
